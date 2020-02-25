@@ -9,7 +9,7 @@ public class Movement : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		
-		//Moving around the Board
+		//Moving around
 		if (Input.GetKey(KeyCode.A))
 		{
 			transform.Translate(Vector3.left*moveSpeed*Time.deltaTime);
@@ -26,5 +26,7 @@ public class Movement : MonoBehaviour {
 		{
 			transform.Translate(Vector3.back*moveSpeed*Time.deltaTime);
 		}
+		
 	}
 }
+

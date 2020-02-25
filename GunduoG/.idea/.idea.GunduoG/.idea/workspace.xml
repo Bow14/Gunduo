@@ -17,6 +17,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/TranslateScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Movement.cs" />
       </list>
     </option>
@@ -69,7 +70,7 @@
       <updated>1582595016441</updated>
       <workItem from="1582595022171" duration="249000" />
       <workItem from="1582595430700" duration="68000" />
-      <workItem from="1582595560280" duration="249000" />
+      <workItem from="1582595560280" duration="1832000" />
     </task>
     <servers />
   </component>
