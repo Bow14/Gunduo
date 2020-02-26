@@ -61,7 +61,6 @@
   <ItemGroup>
     <Compile Include="Assets\MiniMap.cs" />
     <Compile Include="Assets\MouseLook.cs" />
-    <Compile Include="Assets\Movement.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
