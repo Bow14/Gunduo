@@ -11,6 +11,8 @@ public class PlayerMovement : MonoBehaviour
 	public float speed = 12f;
 	public float gravity = -9.81f;
 	public float jumpHeight = 3f;
+	public float walkSpeed = 40f;
+	public float sprintSpeed = 100f;
 
 	public Transform groundCheck;
 	public float groundDistance = 0.4f;
@@ -18,9 +20,12 @@ public class PlayerMovement : MonoBehaviour
 	
 	private Vector3 velocity;
 	bool isGrounded;
+	
+
 	void Update ()
 	{
 		isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
+		
 
 		if (isGrounded && velocity.y < 0)
 		{
@@ -37,13 +42,23 @@ public class PlayerMovement : MonoBehaviour
 		if (Input.GetButtonDown("Jump") && isGrounded)
 		{
 			velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+			
 		} 
+		if (Input.GetKey(KeyCode.LeftShift))
+		{
+			speed = sprintSpeed;
+		}
+		else
+		{
+			speed = walkSpeed;
+		}
 		
 		velocity.y += gravity * Time.deltaTime;
 
 		controller.Move(velocity * Time.deltaTime);
 		
 	}
+	
 	
 	public float IncreaseSpeed(float multiplier)
 	{

@@ -926,6 +926,8 @@ MonoBehaviour:
   speed: 40
   gravity: -35.81
   jumpHeight: 12
+  walkSpeed: 4
+  sprintSpeed: 100
   groundCheck: {fileID: 236657090}
   groundDistance: 0.4
   groundMask:
