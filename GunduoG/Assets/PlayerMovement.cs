@@ -11,7 +11,7 @@ public class PlayerMovement : MonoBehaviour
 	public float speed = 12f;
 	public float gravity = -9.81f;
 	public float jumpHeight = 3f;
-	public float walkSpeed = 40f;
+	public float walkSpeed = 60f;
 	public float sprintSpeed = 100f;
 
 	public Transform groundCheck;
