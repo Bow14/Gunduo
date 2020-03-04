@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\cmbur\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\cmbur\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_GunduoG.1891773776.00" t="ExcludeRecursive" />
-    <e p="C:\Users\cmbur\Desktop\GunDuo\GunDuo\GunduoG" t="IncludeRecursive">
+    <e p="C:\Users\huffn\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\huffn\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_GunduoG.-243409514.00" t="ExcludeRecursive" />
+    <e p="C:\Users\huffn\Documents\Git repo\GunDuo\GunduoG" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
@@ -84,6 +84,7 @@
           </e>
         </e>
         <e p="Target.cs" t="Include" />
+        <e p="Teleporter.cs" t="Include" />
         <e p="TextMesh Pro" t="Include">
           <e p="Examples &amp; Extras" t="Include">
             <e p="Fonts" t="Include">
