@@ -42,10 +42,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 681, y: 492}
-  m_MaxSize: {x: 14004, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 84
+  controlID: 82
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 85
+  controlID: 83
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,7 +233,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 86
+  controlID: 84
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -252,8 +252,8 @@ MonoBehaviour:
     y: 0
     width: 922
     height: 442
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -323,20 +323,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Art/Materials
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Art/Materials
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\cmbur\Desktop\GunDuo\Gunduo\GunduoG
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 20}
-    m_SelectedIDs: 3c0b0000
-    m_LastClickedID: 2876
-    m_ExpandedIDs: 00000000640a0000ce0a0000420d0000440d0000140f000000ca9a3bffffff7f
+    m_SelectedIDs: 640a0000
+    m_LastClickedID: 2660
+    m_ExpandedIDs: 00000000640a0000ce0a0000420d0000440d0000160f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -364,7 +364,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000640a0000ce0a0000420d0000440d0000140f0000
+    m_ExpandedIDs: 00000000640a0000ce0a0000420d0000440d0000160f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -480,9 +480,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 24110000
-    m_LastClickedID: 4388
-    m_ExpandedIDs: eefbffff000000001011000024110000
+    m_SelectedIDs: c0100000
+    m_LastClickedID: 4288
+    m_ExpandedIDs: eefbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -532,14 +532,14 @@ MonoBehaviour:
     height: 421
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 1955.7887366999998
+  lastFramingTime: 425.80666449999995
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 13.315666, y: 166.73001, z: 192.7165}
+    m_Target: {x: -5.7619934, y: 36.65631, z: 1.0033531}
     speed: 2
-    m_Value: {x: 13.315666, y: 166.73001, z: 192.7165}
+    m_Value: {x: -5.7619934, y: 36.65631, z: 1.0033531}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -567,13 +567,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.043076333, y: 0.7582031, z: -0.05034933, w: -0.64866865}
+    m_Target: {x: -0.043750465, y: 0.42282018, z: -0.020442251, w: -0.9049279}
     speed: 2
-    m_Value: {x: -0.043075614, y: 0.75819045, z: -0.050348487, w: -0.6486578}
+    m_Value: {x: -0.043750465, y: 0.42282018, z: -0.020442251, w: -0.9049279}
   m_Size:
-    m_Target: 63.93211
+    m_Target: 119.95199
     speed: 2
-    m_Value: 63.93211
+    m_Value: 119.95199
   m_Ortho:
     m_Target: 0
     speed: 2
