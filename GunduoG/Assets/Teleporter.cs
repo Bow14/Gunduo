@@ -9,7 +9,9 @@ public class Teleporter : MonoBehaviour
     public Transform teleportTarget;
     public GameObject thePlayer;
     public Camera miniMap;
+
     
+
     private void OnTriggerEnter(Collider other)
     {
         thePlayer.transform.position = teleportTarget.transform.position;
