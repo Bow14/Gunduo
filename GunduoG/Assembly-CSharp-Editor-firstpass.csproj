@@ -61,10 +61,17 @@
   <ItemGroup>
     <Compile Include="Assets\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
     <Reference Include="UnityEditor.StandardEvents">
+<<<<<<< Updated upstream
       <HintPath>C:/Users/cmbur/Desktop/GunDuo/Gunduo/GunduoG/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
       <HintPath>C:/Users/cmbur/Desktop/GunDuo/Gunduo/GunduoG/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+=======
+      <HintPath>C:/Users/huffn/Documents/Git repo/GunDuoTryingToFix/Gunduo/GunduoG/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/huffn/Documents/Git repo/GunDuoTryingToFix/Gunduo/GunduoG/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+>>>>>>> Stashed changes
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Users/cmbur/Desktop/Art/2018.1.9f2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -304,6 +311,7 @@
       <HintPath>C:/Users/cmbur/Desktop/Art/2018.1.9f2/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="JetBrains.Rider.Unity.Editor.Plugin.Repacked">
+<<<<<<< Updated upstream
       <HintPath>C:/Users/cmbur/Desktop/GunDuo/Gunduo/GunduoG/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
     </Reference>
     <Reference Include="TextMeshPro-2017.3-Editor">
@@ -311,6 +319,15 @@
     </Reference>
     <Reference Include="TextMeshPro-2017.3-Runtime">
       <HintPath>C:/Users/cmbur/Desktop/GunDuo/Gunduo/GunduoG/Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll</HintPath>
+=======
+      <HintPath>C:/Users/huffn/Documents/Git repo/GunDuoTryingToFix/Gunduo/GunduoG/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</HintPath>
+    </Reference>
+    <Reference Include="TextMeshPro-2017.3-Editor">
+      <HintPath>C:/Users/huffn/Documents/Git repo/GunDuoTryingToFix/Gunduo/GunduoG/Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="TextMeshPro-2017.3-Runtime">
+      <HintPath>C:/Users/huffn/Documents/Git repo/GunDuoTryingToFix/Gunduo/GunduoG/Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll</HintPath>
+>>>>>>> Stashed changes
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/cmbur/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
